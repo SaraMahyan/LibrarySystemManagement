@@ -4,11 +4,11 @@
 
 In today’s digital age, libraries face the challenge of adapting to modern technologies while maintaining their core mission of providing access to knowledge and fostering a love for reading and learning. Manual systems for library management are often inefficient and prone to errors, hindering the ability of libraries to effectively serve their patrons. To address these challenges, the development of a Library Management System (LMS) presents a viable solution.
 
-In this report, we introduce our library system management, which aims to streamline access to resources and enhance user experience within the library setting. Our system caters to administrators, staff, and members, providing a seamless platform for book management and user interactions.
+In this repository, we introduce our Library System Management project, which aims to streamline access to resources and enhance user experience within the library setting. Our system caters to administrators, staff, and members, providing a seamless platform for book management and user interactions.
 
 ## Purpose of the LMS Project
 
-By exploring the intricacies of this Library Management System, this report aims to elucidate its significance in modernizing library operations, enhancing user experience, and optimizing resource utilization. Through an in-depth examination of its design principles, features, and implementation, readers will gain valuable insights into the potential benefits of adopting such systems in libraries of varying scales.
+By exploring the intricacies of this Library Management System, this repository aims to elucidate its significance in modernizing library operations, enhancing user experience, and optimizing resource utilization. Through an in-depth examination of its design principles, features, and implementation, readers will gain valuable insights into the potential benefits of adopting such systems in libraries of varying scales.
 
 ## Scope of the LMS Project
 
@@ -35,8 +35,8 @@ In addition to the Library Management System, other tools can enhance library op
 
 ## References
 
-[Java Programming Language](https://www.oracle.com/java/)
-[Eclipse IDE](https://www.eclipse.org/)
-[Lucidchart](https://www.lucidchart.com/)
-[ClickUp](https://clickup.com/)
-[Books Dataset CSV File](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset?resource=download)
+- [Java Programming Language](https://www.oracle.com/java/)
+- [Eclipse IDE](https://www.eclipse.org/)
+- [Lucidchart](https://www.lucidchart.com/)
+- [ClickUp](https://clickup.com/)
+- [Books Dataset CSV File](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset?resource=download)
